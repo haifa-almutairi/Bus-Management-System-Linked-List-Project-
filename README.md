@@ -17,6 +17,8 @@ Administrator
 - Delete a bus by its code
 - View and update student requests
 - Generate a report for a bus by code, destination, or other info
+
+
 User (Student)
 - Inquire about a specific bus by code
 - Submit a request for a new bus destination
