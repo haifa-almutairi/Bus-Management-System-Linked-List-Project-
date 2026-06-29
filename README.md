@@ -28,7 +28,7 @@ User (Student)
   
 - (Node) A single linked list node holding a Bus object
 
-- (LinkedList) Custom linked list managing Node s — add, delete, display
+- (LinkedList) Custom linked list managing Node 'add, delete, display'
 
 - (Administrator) Manages buses, requests, and reports via file I/O
 
