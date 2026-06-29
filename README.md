@@ -39,7 +39,6 @@ User (Student)
 
 ## How It Works
 1. Administrator adds a bus → its info is appended to memory linked list.
-Buses.txt and added to the in-
 2. Administrator deletes a bus by code → the matching line is removed from Buses.txt.
 3. User submits a request → it’s appended to Requests.txt along with their ID.
 4. Administrator updates a request → the matching entry in Requests.txt gets a
